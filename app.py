@@ -7,6 +7,8 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
+# Cambio realizado por Ana Fernandez desde la rama ana-viz
+
 # Prueba rama Brian-viz
 # Prueba Git Hub
 app = dash.Dash(
